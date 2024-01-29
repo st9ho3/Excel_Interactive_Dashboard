@@ -1,6 +1,7 @@
 # Excel_Interactive_Dashboard
 
-![Στιγμιότυπο οθόνης 2024-01-29 213826](https://github.com/st9ho3/Excel_Interactive_Dashboard/assets/148724871/61c9e822-1f84-446f-9eb8-ef6e06295241)
+![Στιγμιότυπο οθόνης 2024-01-29 232501](https://github.com/st9ho3/Excel_Interactive_Dashboard/assets/148724871/ccc9ff5f-527c-4fe3-8b03-74ca1560b36a)
+
 
 
 Explore the world of wine with our Enoteca Project Interactive Dashboard, meticulously crafted using Microsoft Excel. This dynamic tool is fueled by a comprehensive dataset, the same one employed in the renowned Enoteca Project. With a foundation of pivot tables and strategic use of functions, we've unlocked valuable insights for wine enthusiasts and professionals alike.
